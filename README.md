@@ -1,6 +1,7 @@
 # Turtle Code – Python Dear PyGui & PostgreSQL Desktop App Series
 
 This repository contains the source code for the YouTube tutorial series where we build a desktop CRUD application using **Python**, **Dear PyGui**, and **PostgreSQL**.
+https://www.youtube.com/@turtlecode
 
 In this series, you will learn:
 
